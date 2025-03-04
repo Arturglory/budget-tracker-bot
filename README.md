@@ -16,5 +16,5 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ваш_репозиторий>
-   cd budget-tracker-telegram-bot
+   git clone https://github.com/Arturglory/budget-tracker-bot.git
+   cd budget-tracker-bot
